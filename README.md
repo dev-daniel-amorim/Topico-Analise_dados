@@ -1,5 +1,5 @@
 # Análise de dados - Tratamento de dados
-Neste material vamos explorar técnicas de tratamento, limpeza e preparação de dados.
+Neste material vamos explorar técnicas de tratamento, limpeza e preparação de dados. Alguns métodos estatísticos serão abordados aqui.
 
 | Tutoriais/Títulos    | Descrição/Link Medium  | Links/Vídeos YouTube | Links/Códigos fonte |
 | --- | --- | :---: | :---: |
